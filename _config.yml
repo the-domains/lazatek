@@ -1,7 +1,7 @@
 name: Lazatek
 favicon: null
-layout_spectrum: 0.11322272708639503
-typography_spectrum: 0.9775256402790546
+layout_spectrum: 0.51222
+typography_spectrum: 0.75543
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3240315371658653
+    - '#231f20'
+    - '#ec1c25'
+    - '#eeeeee'
+    - '#757273'
+    - '#b3b1b2'
+  brandStrength: 0.5
   lightness: 0.09707247093319893
   saturation: 0.6888773350510746
   rhythmicContrast: 0.8087052749469876
