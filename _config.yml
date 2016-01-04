@@ -1,7 +1,7 @@
 name: Lazatek
 favicon: null
 layout_spectrum: 0.51222
-typography_spectrum: 0.75543
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#757273'
     - '#b3b1b2'
   brandStrength: 0.5
-  lightness: 0.09707247093319893
-  saturation: 0.6888773350510746
-  rhythmicContrast: 0.8087052749469876
+  lightness: 0.1875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
