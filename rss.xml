@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lazatek]]></title>
         <description><![CDATA[Lazatek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lazatek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 18:31:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 18:39:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lazatek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8cc8a7898c0d447aebcf5ad7a6454650aa5b0e.jpg" alt="" title="">]]></description>
-            <link>undefined2f0eff52-04c3-4c66-9c5c-cfc17eeaecf7/index.html</link>
+            <title><![CDATA[Freelance graphic designs.]]></title>
+            <description><![CDATA[<article><h1>Freelance graphic designs.</h1><p>Lazatek logo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ee59fc3cbfc75bf362e13b5a14814e4cf5c9f44.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lazatek/2f0eff52-04c3-4c66-9c5c-cfc17eeaecf7/index.html</link>
             <guid isPermaLink="false">2f0eff52-04c3-4c66-9c5c-cfc17eeaecf7</guid>
-            <pubDate>Mon, 04 Jan 2016 18:31:15 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 18:39:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
